@@ -1,0 +1,3 @@
+# Ignore Windows executables and temporary files
+*.exe
+*.o
